@@ -1,0 +1,9 @@
+Sublime Python Editor Settings
+
+Preferences > Settings - Syntax Specific
+
+// These settings override both User and Default settings for the Python syntax
+{
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true	
+}
